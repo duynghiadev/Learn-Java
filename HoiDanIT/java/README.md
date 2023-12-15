@@ -6,3 +6,5 @@ Mục tiêu của khóa này bao gồm:
 - Hiểu rõ và nắm vững cú pháp (syntax) của ngôn ngữ lập trình Java, từ version 1 cho tới version 17
 - Xây dựng tư duy lập trình hướng đối tượng (OOP)
 - Xây dựng tư duy lập trình vững chắc với Java, là nền tảng vững chắc để có thể học các framework mới (ví dụ như Spring or Android)
+
+[Link Tutorial](https://bom.so/Zb6Vc0)
