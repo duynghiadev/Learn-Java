@@ -1,3 +1,5 @@
+package bai4_kieudulieutrongjava;
+
 public class bai4_kieudulieutrongjava {
   public static void main(String[] args) {
     // kiểm tra kiểu nguyên

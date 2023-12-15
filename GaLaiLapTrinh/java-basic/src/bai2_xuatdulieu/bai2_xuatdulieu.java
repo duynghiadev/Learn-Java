@@ -1,3 +1,5 @@
+package bai2_xuatdulieu;
+
 public class bai2_xuatdulieu {
   public static void main(String[] args) {
     /**

@@ -1,3 +1,5 @@
+package bai3_ghichu;
+
 public class bai3_ghichu {
   public static void main(String[] args) {
     // Đây là ghi chú 1 dòng
