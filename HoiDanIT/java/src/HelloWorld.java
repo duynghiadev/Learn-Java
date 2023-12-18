@@ -1,15 +1,13 @@
+import java.util.Scanner;
+
 public class HelloWorld {
   public static void main(String[] args) {
-    int a = 6;
-    int b = 9;
-    int c = a + b;
-    System.out.println("Sum: " + c);
-
-    boolean d = true;
-    d = false;
-    System.out.println("Giá trị của biến d là: " + d);
-
-    int test = 5 + 9 * 3 - 10 / 2;
-    System.out.println("Result test is: " + test);
+    Scanner scanner = new Scanner(System.in);
+    System.out.println("Your name is: ");
+    String name = scanner.nextLine();
+    System.out.println("Your age is: ");
+    int age = scanner.nextInt();
+    System.out.println("My name is " + name + ", age " + age);
+    scanner.close();
   }
 }
