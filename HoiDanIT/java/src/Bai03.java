@@ -7,5 +7,6 @@ public class Bai03 {
     int canh = scanner.nextInt();
     double theTich = Math.pow(canh, 3);
     System.out.println("Thể tích = " + theTich);
+    scanner.close();
   }
 }
