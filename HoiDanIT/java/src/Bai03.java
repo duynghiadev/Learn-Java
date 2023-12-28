@@ -2,24 +2,26 @@ import java.util.Scanner;
 
 public class Bai03 {
   public static void main(String[] args) {
-    /**
-     * - Dưới 10M: không đóng thuế
-     * - Từ 10M đến 15M: thuế 10%
-     * - Từ 15M đến 30M: thuế 20%
-     * - Trên 30M: thuế 50%
-     */
+    System.out.println(">> SELECT FEATURE <<");
+    System.out.println("++ ------------------ ++");
+    System.out.println("| 1. Addition |");
+    System.out.println("| 2. Subtract |");
+    System.out.println("| 3. Finished |");
+    System.out.println("++ ------------------ ++");
     Scanner scanner = new Scanner(System.in);
-    System.out.println("tax = ");
-    int tax = scanner.nextInt();
+    int value = scanner.nextInt();
 
-    if (tax < 10) {
-      System.out.println("No tax");
-    } else if (10 <= tax && tax <= 15) {
-      System.out.println("tax 10%");
-    } else if (15 <= tax && tax <= 30) {
-      System.out.println("tax 20%");
-    } else {
-      System.out.println("tax 50%");
+    switch (value) {
+      case 1:
+        System.out.println("Your select is addition");
+        break;
+      case 2:
+        System.out.println("Your select is subtract");
+        break;
+      default:
+        System.out.println("Your select finished programming");
+        System.exit(0);
     }
+    scanner.close();
   }
 }
