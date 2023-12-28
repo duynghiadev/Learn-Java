@@ -2,6 +2,12 @@ import java.util.Scanner;
 
 public class HelloWorld {
   public static void main(String[] args) {
+    byte g = 100;
+    short e = 1000;
+    long f = 1200L;
+    String j = "Duy Nghia Dev";
+
+
     int a = 6;
     int b = 9;
     int c = Math.max(a, b);
