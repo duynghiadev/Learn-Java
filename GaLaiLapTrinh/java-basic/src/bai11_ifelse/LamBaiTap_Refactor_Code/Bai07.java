@@ -1,4 +1,4 @@
-package LamBaiTap_Refactor_Code;
+package bai11_ifelse.LamBaiTap_Refactor_Code;
 
 import java.util.Scanner;
 
