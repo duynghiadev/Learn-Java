@@ -7,8 +7,6 @@ public class Video23 {
   }
 
   public static void main(String[] args) {
-    Video23 test = new Video23();
-    int a = test.sum(6, 9);
-    System.out.println("check sum = " + a);
+    Student st1 = new Student(); // constructor
   }
 }
