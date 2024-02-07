@@ -1,4 +1,6 @@
-## Trong repo này chứa những bài học về Java# Giới Thiệu Ngôn Ngữ Java
+# Giới Thiệu Ngôn Ngữ Java
+
+## Trong repo này chứa những bài học về Java
 
 Java là một ngôn ngữ lập trình đa nền tảng, được phát triển bởi James Gosling và đồng đội tại Sun Microsystems vào những năm 1990. Dưới đây là một số đặc điểm quan trọng và sơ lược về Java:
 
