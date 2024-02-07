@@ -7,3 +7,10 @@
   việc kiểm soát vòng lặp. Hãy cùng xem video để tìm hiểu thêm về 'break' và 'continue' trong Java nhé!"
 
 ![img.png](img.png)
+
+- Bài tập rèn luyện từ bài 12 đến bài 18
+
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
