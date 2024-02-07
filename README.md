@@ -1,9 +1,13 @@
 # Giới Thiệu Ngôn Ngữ Java
+<<<<<<< HEAD
+=======
+
+## Trong repo này chứa những bài học về Java
+>>>>>>> 1fd0ffde888136be8fb7bb5539ad8a3c0dc492a2
 
 ## Trong repo này chứa những bài học về Java
 
-Java là một ngôn ngữ lập trình đa nền tảng, được phát triển bởi James Gosling và đồng đội tại Sun Microsystems
-vào những năm 1990. Dưới đây là một số đặc điểm quan trọng và sơ lược về Java:
+Java là một ngôn ngữ lập trình đa nền tảng, được phát triển bởi James Gosling và đồng đội tại vào những năm 1990. Dưới đây là một số đặc điểm quan trọng và sơ lược về Java:
 
 1. **Đa Nền Tảng (Platform-Independent):** Java được thiết kế để làm việc trên nhiều nền tảng khác nhau mà
    không cần phải biên dịch lại. Điều này được thực hiện thông qua việc sử dụng máy ảo Java (JVM - Java
