@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GaLaiLapTrinh.iml" filepath="$PROJECT_DIR$/.idea/GaLaiLapTrinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/java-basic.iml" filepath="$PROJECT_DIR$/java-basic/java-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/java-tuhoc.cc/java-tuhoc.cc.iml" filepath="$PROJECT_DIR$/java-basic/java-tuhoc.cc/java-tuhoc.cc.iml" />
+    </modules>
+  </component>
+</project>
