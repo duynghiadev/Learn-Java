@@ -7,4 +7,4 @@ Mục tiêu của khóa này bao gồm:
 - Xây dựng tư duy lập trình hướng đối tượng (OOP)
 - Xây dựng tư duy lập trình vững chắc với Java, là nền tảng vững chắc để có thể học các framework mới (ví dụ như Spring or Android)
 
-[Link Tutorial](https://bom.so/Zb6Vc0)
+[Link Tutorial](https://www.youtube.com/playlist?list=PLncHg6Kn2JT5EVkhKoJmzOytHY39Mrf_o)
