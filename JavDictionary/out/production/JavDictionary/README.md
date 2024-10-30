@@ -1,7 +1,3 @@
-# Tự học lập trình JAVA dễ dàng. Code ngay chương trình từ điển tra cứu JAV Idol | Vũ Nguyễn Coder
-
-[Link video](https://www.youtube.com/watch?v=W6ssbMSyrVw)
-
 # JavDictionary
 
 Simple program to start Java Programing
