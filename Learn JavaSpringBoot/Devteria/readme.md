@@ -1,1 +1,1 @@
-[Link tutorial](https://by.tn/nBbb)
+[Link tutorial](https://www.youtube.com/@DevteriaChannel/playlists)
